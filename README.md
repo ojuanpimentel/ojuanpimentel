@@ -43,6 +43,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 
 <img
 align="left"
+alt="Java"
+title="Java"
+style="padding-right: 10px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+align="left"
 alt="JavaScript"
 title="JavaScript"
 style="padding-right: 10px;"
