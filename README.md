@@ -1,16 +1,77 @@
-## Hi there 👋
+# 📚 Juan Pimentel 
+**`Técnico em Desenvolvimento de Sistemas (2/4)`**
 
-<!--
-**ojuanpimentel/ojuanpimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Juan Matias Pimentel da Silva, tenho 17 anos, moro no estado de São Paulo.
+Atualmente estou cursando o curso Técnico em Desenvolvimento de Sistemas (SENAI) e concluindo o Ensino Médio. Sou uma pessoa muito criativa e interessada em tecnologia. Mostro da minha criatividade e vida acadêmica no canal no YouTube "[Juan Pimentel](http://www.youtube.com/@ojuanpimentel)".
 
-Here are some ideas to get you started:
+<p align="left">
+      <a href="http://www.youtube.com/@ojuanpimentel">
+         <img alt="YouTube Channel" title="Inscreva-se!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLbA5UpF_t0cMYWhfBsD7kQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+      <a href="https://github.com/ojuanpimentel?tab=followers">
+         <img alt="Seguidores" title="Acompanhe meu Github" src="https://custom-icon-badges.demolab.com/github/followers/ojuanpimentel?color=222222&labelColor=222222&style=for-the-badge&logo=github&label=Me Acompanhe&logoColor=ffffff"/></a>
+         <a href="https://www.linkedin.com/in/juan-pimentel-6016b03b1">
+         <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+      </a>
+   </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias 
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+style="padding-right: 10px;"
+width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/> 
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+style="padding-right: 10px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+style="padding-right: 10px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+align="left"
+alt="Node.js"
+title="Node.js"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+<img
+align="left"
+alt="Figma"
+title="Figma"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+
+<br/>
+<br/>
+<br clear="left"/>
+
+### 📊 Estatísticas
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ojuanpimentel&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ojuanpimentel&theme=tokyonight"/>
