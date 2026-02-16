@@ -74,8 +74,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 
 ### 📊 Estatísticas
 
-<img height="180em"
+<p>
+      <img height="180em"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ojuanpimentel&theme=tokyonight"/>
-
-<img height="180em"
+      <img height="180em"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ojuanpimentel&theme=tokyonight"/>
+</p>
