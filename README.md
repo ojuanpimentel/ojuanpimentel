@@ -1,4 +1,4 @@
-# 📚 Juan Pimentel 
+# Juan Pimentel 
 **`Técnico em Desenvolvimento de Sistemas (2/4)`**
 
 Olá! Me chamo Juan Matias Pimentel da Silva, tenho 17 anos, moro no estado de São Paulo.
