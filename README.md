@@ -2,7 +2,7 @@
 **`Técnico em Desenvolvimento de Sistemas (2/4)`**
 
 Oie! Me chamo Juan Matias Pimentel da Silva, tenho 17 anos, moro no estado de São Paulo.
-Atualmente estou cursando o curso Técnico em Desenvolvimento de Sistemas (SENAI) e concluindo o Ensino Médio. Sou uma pessoa muito criativa. Mostro da minha criatividade e vida acadêmica no canal no YouTube "[Juan Pimentel](http://www.youtube.com/@ojuanpimentel)".
+Atualmente estou cursando o curso Técnico em Desenvolvimento de Sistemas (SENAI) e concluindo o Ensino Médio. Sou uma pessoa muito criativa. Mostro da minha criatividade e vida acadêmica nas minhas redes sociais "[@ojuanpimentel]".
 
 <p align="left">
       <a href="http://www.youtube.com/@ojuanpimentel">
